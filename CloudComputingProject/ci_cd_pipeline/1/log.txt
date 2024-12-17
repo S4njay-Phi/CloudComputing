@@ -1,0 +1,4 @@
+Error:File not Found
+warning:Low Disk space
+Info:System update completed
+Error:Unable to connect to server

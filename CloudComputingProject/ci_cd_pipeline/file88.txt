@@ -1,0 +1,1001 @@
+history
+  365  javac file.java
+  366  java file
+  367  javac prg12.java
+  368  java prg12
+  369  java stringExtraction.java
+  370  clear
+  371  javac stringExtraction.java
+  372  java stringExtraction
+  373  java MenuExample.java
+  374  java MenuExample 1.java
+  375  javac MultiplicationTables Demo.java
+  376  javac MultiplicationTable Demo.java
+  377  javac MultiList.java
+  378  appletviewer MultiList.java
+  379  javac MultiplicationTables Demo.java
+  380  javac MultiList.java
+  381  appletviewer MultiList.java
+  382  javac MultilplicationTables Demo.java
+  383  javac MultiplicationTables.java
+  384  cd ..
+  385  ls
+  386  cd bin
+  387  ls
+  388  ls -l
+  389  cd ..
+  390  ls
+  391  cd boot
+  392  ls 
+  393  ls -l
+  394  ls -al
+  395  cd ..
+  396  cd dev
+  397  ls
+  398  ls -l
+  399  ls -al
+  400  cd ..
+  401  ls
+  402  cd home
+  403  ls
+  404  ls -l
+  405  ls -al
+  406  cd ..
+  407  ls
+  408  cd lib
+  409  ls 
+  410  ls -l
+  411  ls -al
+  412  cd ..
+  413  ls
+  414  cd mnt
+  415  ls
+  416  ls -l
+  417  ls -al
+  418  cd ..
+  419  ls
+  420  cd homr
+  421  cd home
+  422  ls
+  423  ls -l
+  424  ls -al
+  425  cd ..
+  426  ls
+  427  cd /
+  428  cd pwd
+  429  pwd
+  430  crw-------   1 root   root     10,   234 Dec 10 09:55 btrfs-control
+  431  drwxr-xr-x   3 root   root            60 Dec 10 09:55 bus
+  432  drwxr-xr-x   2 root   root          4140 Dec 10 09:55 char
+  433  crw--w----   1 root   tty       5,     1 Dec 10 09:56 console
+  434  lrwxrwxrwx   1 root   root            11 Dec 10 09:55 core -> /proc/kcore
+  435  drwxr-xr-x   6 root   root           120 Dec 10 09:55 cpu
+  436  crw-------   1 root   root     10,   121 Dec 10 09:55 cpu_dma_latency
+  437  crw-------   1 root   root     10,   203 Dec 10 09:55 cuse
+  438  drwxr-xr-x   7 root   root           140 Dec 10 09:55 disk
+  439  drwxr-xr-x   2 root   root            60 Dec 10 09:55 dma_heap
+  440  drwxr-xr-x   3 root   root           100 Dec 10 09:55 dri
+  441  crw-------   1 root   root    237,     0 Dec 10 09:55 drm_dp_aux0
+  442  crw-------   1 root   root     10,   123 Dec 10 09:55 ecryptfs
+  443  crw-rw----   1 root   video    29,     0 Dec 10 09:55 fb0
+  444  lrwxrwxrwx   1 root   root            13 Dec 10 09:55 fd -> /proc/self/fd
+  445  crw-rw-rw-   1 root   root      1,     7 Dec 10 09:55 full
+  446  cd /etc
+  447  ls
+  448  /etc
+  449  cd etc
+  450  cd ..
+  451  cd etc
+  452  ls
+  453  cd ..
+  454  cd var
+  455  ls
+  456  cd ..
+  457  cd man
+  458  cd man ls
+  459  man ls
+  460  cd ..
+  461  clear
+  462  ls
+  463  cd ..
+  464  ls
+  465  cd bin
+  466  ls
+  467  cd ..
+  468  ls
+  469  cd dev
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd etc
+  474  ls
+  475  cd ..
+  476  ls
+  477  cd bin
+  478  ls
+  479  cd ..
+  480  ls
+  481  cd home
+  482  ls
+  483  cd ..
+  484  cd lib
+  485  ls
+  486  cd /
+  487  ls
+  488  cd usr
+  489  ls
+  490  cd ..
+  491  ls
+  492  cd home
+  493  ls
+  494  cd skacas
+  495  ls
+  496  cd ..
+  497  cd home
+  498  ls
+  499  cd skacas
+  500  cd /
+  501  cd home
+  502  ls
+  503  cd skacas
+  504  ls
+  505  cd desktop
+  506  cd Desktop
+  507  ls
+  508  mkdir z-phi
+  509  cd z-phi
+  510  touch
+  511  touch ff.txt
+  512  touch rep.pdf
+  513  touch phi.pptx
+  514  echo "hello world"
+  515  echo -e "hello\nbrowskie"
+  516  echo "hello world" > ff.txt
+  517  echo "hello vrow" > rep.pdf
+  518  cd /
+  519  mkdir task1
+  520  cd Desktop
+  521  cd home
+  522  ls
+  523  cd skacas
+  524  cd Desktop
+  525  makdir cloudcomputing
+  526  mkdir cloudcomputing
+  527  cd cloudcomputing
+  528  touch bin.txt
+  529  touch home.txt
+  530  touch boot.txt
+  531  echo "only exe files are displayed" > bin.txt
+  532  echo "home contains insttaled and default applications displayed" > home.txt
+  533  echo "boot loader files are displayed" > boot.txt
+  534  cd /
+  535  cd home
+  536  ls
+  537  cd skacas
+  538  cd Desktop
+  539  mkdir GTA
+  540  cd GTA
+  541  touch cheats.txt
+  542  touch moves.txt
+  543  touch charcters.txt
+  544  echo "seaways" > cheats.txt
+  545  echo "w,s,d,a
+  546  echo "w,s,d,a" > moves.txt
+  547  echo "miachel,trevor,franklin" > characters.txt
+  548  cd ..
+  549  mkdir root
+  550  cd root
+  551  mkdir dirt1
+  552  mkdir dirt2
+  553  mkdir dirt3
+  554  mkdir dirt4
+  555  cd dirt1
+  556  touch bin.txt
+  557  cd ..
+  558  cd dirt2
+  559  touch home.txt
+  560  cd ..
+  561  cd dirt3
+  562  touch boot.txt
+  563  cd ..
+  564  cd dirt4
+  565  touch lib.txt
+  566  echo "example zip files" > touch.txt
+  567  cd ..
+  568  cd dirt1
+  569  echo "exe files are displayed" > bin.txt
+  570  cd ..
+  571  cd dirt2
+  572  echo "installed and default applications" > home.txt
+  573  cd ..
+  574  cd dirt3
+  575  echo "boot loader files" > boot.txt
+  576  pwd
+  577  cd ..
+  578  cd dirt2
+  579  pwd
+  580  cd ..
+  581  cd dirt3
+  582  cp boot.txt /home/skacas/Desktop/root/dirt2/home.txt
+  583  /home/skacas/Desktop/root/dirt3/boot.txt /home/skacas/Desktop/root/dirt2/home.txt
+  584  cp /home/skacas/Desktop/root/dirt3/boot.txt /home/skacas/Desktop/root/dirt2/home.txt
+  585  rm /home/skacas/Desktop/root/dirt3/book.txt
+  586  rm book.txt
+  587  cd ..
+  588  cd dirt2
+  589  rm home.txt
+  590  cd ..
+  591  cd gta
+  592  cp -r GTA root
+  593  clear
+  594  ls
+  595  cd GTA
+  596  ls
+  597  mv charcters.txt cheat.txt
+  598  mv cheat.txt cheat.pdf
+  599  cd ..
+  600  pwd
+  601  cd ..
+  602  cd home
+  603  ls
+  604  cd skacas
+  605  pwd
+  606  cd Desktop
+  607  clear
+  608  mkdir cloud
+  609  cd cloud
+  610  clear
+  611  touch file1.txt
+  612  cat > file1.txt
+  613  cat file1.txt
+  614  cat >> file1.txt
+  615  cat file1.txt
+  616  mv file1.txt concatination
+  617  mv concatination.txt conacatination.txt
+  618  tac concatination
+  619  mv concationation concatination.txt
+  620  mv concatination concatination.txt
+  621  touch tac.txt
+  622  cat > tac.txt
+  623  cat >> tac.txt
+  624  cat tac.txt
+  625  tac tac.txt
+  626  cat concatination.txt tac.txt > combinedfile.txt
+  627  cat combinedfile.txt
+  628  cat -n combinedfile.txt
+  629  cat combinedfile.txt > completecatfile.txt
+  630  cat completecatfile.txt
+  631  cat -n completecatfile.txt
+  632  nano nanofile.txt
+  633  pwd
+  634  cd Desltop
+  635  cd Desktop
+  636  nano nanocomplete.txt
+  637  cd cloud
+  638  nano hola.txt
+  639  clear
+  640  wim open.txt
+  641  cd ..
+  642  wim
+  643  vim
+  644  vim file.txt
+  645  vi vimfile.txt
+  646  bash -v\
+  647  bash -v
+  648  vi vim1.txt
+  649  vim
+  650  apt install vim
+  651  sudo apt install vim
+  652  vi vim.txt
+  653  grep
+  654  grep file.txt
+  655  pwd
+  656  cd Desktop
+  657  cd root
+  658  cat > grep.txt
+  659  cat > mass.txt
+  660  cat mass.txt
+  661  grep "brow" mass.txt
+  662  grep -l "nanba" mass.txt
+  663  grep -l "kaadahl" mass.txt
+  664  grep -al "kaadahl" mass.txt
+  665  cat > hiivrow.txt
+  666  grep -l "brow" mass.txt hiivrow.txt
+  667  grep "brow" mass.txt hiivrow.txt
+  668  grep "brow" mass.txt hiivrow.txt > namathaaa.txt
+  669  cat namathaaa.txt
+  670  cd /
+  671  cd home
+  672  cd skacas
+  673  cd home
+  674  cd ..
+  675  ls
+  676  cd skacas
+  677  ls
+  678  cd Desktop
+  679  root
+  680  cd root
+  681  clear
+  682  cat > grep.txt
+  683  cat > mass.txt
+  684  grep -e "hi" -e "vrow"  grep.txt
+  685  grep -e "hi" -e "vrow" grep.txt mass.txt
+  686  grep -l -e "hi" -e "vrow" grep.txt mass.txt
+  687  vim
+  688  cd ..
+  689  vim test.txt
+  690  pwd
+  691  cd Desktop
+  692  cd root
+  693  vim gethu.txt
+  694  vim direct.txt
+  695  cd ..
+  696  mkdir grepfunctions
+  697  cd grepfunctions
+  698  grep first.txt
+  699  grep second.txt
+  700  cp first.txt third.txt
+  701  touch third.txt
+  702  cp first.txt
+  703  cp first.txt third.txt
+  704  cat first.txt > third.txt
+  705  touch first.txt
+  706  touch second.txt
+  707  cat first.txt
+  708  cd ..
+  709  ls -ld
+  710  cat /etc/passwd
+  711  pwd
+  712  Desktop
+  713  cd Desktop
+  714  mkdir grep
+  715  cd grep
+  716  touch first.txt
+  717  touch second.txt
+  718  touch third.txt
+  719  cat > first.txt
+  720  cat first > second.txt
+  721  cat first.txt > second.txt
+  722  cat second.txt
+  723  cat second.txt > third.txt
+  724  cat third.txt second.txt first.txt
+  725  grep "hi" second.txt first.txt third.txt
+  726  grep -i "BYE" second.txt
+  727  grep -l -i -e "HI" -e "NeVeR" first.txt second.txt third.txt
+  728  grep -i -e "HI" -e "NeVeR" first.txt second.txt third.txt
+  729  grep -i -e "HI" -e "NeVeR" -e "h." first.txt second.txt third.txt 
+  730  grep -i -e "HI" -e "NeVeR" -e "h?" first.txt second.txt third.txt 
+  731  grep -i -e "HI" -e "NeVeR$" -e "h?" first.txt second.txt third.txt 
+  732  grep -i -e "HI" -e "^NeVeR" -e "h?" first.txt second.txt third.txt 
+  733  grep -i -e "HI" -e "^NeVeR" -e "h?" first.txt second.txt third.txt > complete.txt
+  734  cat complete.txt
+  735  grep -i -e "HI" -e "^NeVeR" -e "*i" first.txt second.txt third.txt > complete.txt
+  736  grep -i -e "HI" -e "^NeVeR" -e "8?" first.txt second.txt third.txt 
+  737  grep -i -e "HI" -e "^NeVeR" -e "*?" first.txt second.txt third.txt 
+  738  grep -i -e "HI" -e "^NeVeR" -e "*k" first.txt second.txt third.txt 
+  739  tac third.txt second.txt > complete.txt
+  740  cat complete.txt
+  741  third.txt /home/skacas/Desktop/GTA
+  742  pwd
+  743  ls
+  744  cd ..
+  745  grep -i -e "HI" -e "^NeVeR" -e "*k" grep
+  746  grep -r -i -e "HI" -e "^NeVeR" -e "*k" grep
+  747  ls
+  748  cd root
+  749  ls
+  750  cd dirt1.txt
+  751  cd dirt1
+  752  ls
+  753  cat bin.txt
+  754  grep "exe" bin.txt | wc -l
+  755  cd ..
+  756  mkdir pipe
+  757  cd pipe
+  758  touch pipe1.txt
+  759  ls
+  760  mkdir dir | touch file.txt
+  761  ls
+  762  mkdir dir1 | touch dir1/file1.txt
+  763  pwd
+  764  mkdir dir1 | touch /home/skacas/Desktop/pipe/dir1/file1.txt
+  765  mkdir dir2 | touch /home/skacas/Desktop/pipe/dir1/file1.txt
+  766  rm -r dir2 | rm file.txt
+  767  clear
+  768  touch file.txt
+  769  cat > file.txt
+  770  grep "me" file.txt 
+  771  grep "me" file.txt | wc -l
+  772  grep "m* file.txt | wc -l
+  773  grep "m." file.txt | wc -l
+  774  grep "m?" file.txt | wc -l
+  775  grep "m$" file.txt | wc -l
+  776  grep "^come" file.txt | wc -l
+  777  grep "^come" file.txt | wc -c
+  778  grep -e "come" -e "me" file.txt | wc -l
+  779  grep -e "come" -e "me" file.txt | wc -w
+  780  cat >  file.txt 
+  781  grep  "hi" file.txt | wc -w
+  782  cd ..
+  783  ls -ld pipe
+  784  ls -ld
+  785  cat /etc/passwd
+  786  ls -ld
+  787  sudo chown skacas
+  788  clear
+  789  cd root
+  790  cd /
+  791  cd home
+  792  cd skacas
+  793  cd desktop
+  794  cd /
+  795  ls
+  796  cd home
+  797  ls
+  798  cd skacas
+  799  ls
+  800  cd Desktop
+  801  ls
+  802  cd pipe
+  803  mkdir rishi | touch chaaru
+  804  mkdir rishi | touch /rishi/charu.txt
+  805  mkdir rishi | touch /rishi/chaaru
+  806  clear
+  807  cd ..
+  808  useradd zphi
+  809  cat /etc/passwd
+  810  cd /
+  811  cd ..
+  812  sudo useradd zphi
+  813  cd /
+  814  cd home
+  815  cd Desktop
+  816  ls
+  817  cd skacas
+  818  cd Desktop
+  819  cd grep
+  820  ls
+  821  cat complete.txt
+  822  mkdir rishi |mkdir sanjay
+  823  ls 
+  824  touch ff.txt | touch pubg.pdf
+  825  ls
+  826  cat complete.txt
+  827  pwd
+  828  cd Desktop
+  829  mkdir program
+  830  cd program
+  831  nano script.sh
+  832  ./script.sh
+  833  chmod +x script.sh
+  834  ll script.sh
+  835  ./script.sh
+  836  nano sccript.sh
+  837  pwd
+  838  cd Desktop
+  839  nano script.sh
+  840  pwd
+  841  cd Desktop
+  842  cd program
+  843  ls
+  844  nano script.sh
+  845  nano loop.sh
+  846  ./loop.sh
+  847  nano loop.sh
+  848  cd ..
+  849  cd /
+  850  sudo apt update
+  851  cd ..
+  852  pwd
+  853  cd Desktop
+  854  nano game.txt
+  855  ./code.txt
+  856  chmod +x code.txt
+  857  ./code.txt
+  858  nano code.txt
+  859  ./code.txt
+  860  nano code.txt
+  861  ./code.txt
+  862  nano code.txt
+  863  ./code.txt
+  864  nano code.txt
+  865  ./code.txt
+  866  nano code.txt
+  867  ./code.txt
+  868  nano code.txt
+  869  ./code.txt
+  870  nano code.txt
+  871  ./code.sh
+  872  chmod +x code.sh
+  873  ./code.sh
+  874  nano code.sh
+  875  ./code.sh
+  876  nano code.sh
+  877  ./code.sh
+  878  nano code.sh
+  879  ./code.sh
+  880  nano code.sh
+  881  ./code.sh
+  882  nano code.sh
+  883  ./code.sh
+  884  nano code.sh
+  885  ./code.sh
+  886  nano code.sh
+  887  ./code.sh
+  888  nano code.sh
+  889  ./code.sh
+  890  nano code.sh
+  891  ./code.sh
+  892  nano code.sh
+  893  ./code.sh
+  894  nano code.sh
+  895  nano loop.sh
+  896  nano code.sh
+  897  ./loop.sh
+  898  chmod +x loop.sh
+  899  ./loop.sh
+  900  nano loop.sh
+  901  ./loop.sh
+  902  nano loop.sh
+  903  ./loop.sh
+  904  nano loop.sh
+  905  ./loop.sh
+  906  nano loop.sh
+  907  ./loop.sh
+  908  pwd
+  909  cd ..
+  910  mkdir git1
+  911  cd git1
+  912  git init
+  913  git clone "https://ghp_YqU57qokg4UxHxl2qU54jHwapUYVn0Id7iE@github.com/S4njay-Phi/nah"
+  914  cd nah
+  915  cat file.txt
+  916  cat > file.txt
+  917  git add file.txt
+  918  git status
+  919  git add file.txt
+  920  git status
+  921  git add file.txt
+  922  git satatus
+  923  git clone "https://ghp_YqU57qokg4UxHxl2qU54jHwapUYVn0Id7iE@github.com/S4njay-Phi/nah.git"
+  924  git status
+  925  cd ..
+  926  pwd
+  927  cd ..
+  928  cd git1
+  929  ls
+  930  git init
+  931  git config --list
+  932  git clone "https://ghp_YqU57qokg4UxHxl2qU54jHwapUYVn0Id7iE@github.com/S4njay-Phi/nah.git"
+  933  git clone "https://ghp_YqU57qokg4UxHxl2qU54jHwapUYVn0Id7iE@github.com/S4njay-Phi/nah"
+  934  cd nah
+  935  cat > file.txt
+  936  ls
+  937  git add README.md
+  938  git add file.txt
+  939  git status
+  940  git add nah
+  941  git status
+  942  git add file.txt
+  943  git add nah.txt
+  944  git add nah
+  945  git statuss
+  946  git status
+  947  pwd
+  948  cd ..
+  949  git init
+  950  git config --list
+  951  git clone https://github.com/S4njay-Phi/nah.git
+  952  ls
+  953  nah
+  954  ls
+  955  cd nah
+  956  ls
+  957  cat README.d
+  958  cat README.md
+  959  cat > bye.txt
+  960  git add bye.txt
+  961  git commit -m "first"
+  962  git status
+  963  git push origin main
+  964  cd ..
+  965  mkdir pls
+  966  cd pls
+  967  cd ..
+  968  git init
+  969  git clone "https://ghp_YqU57qokg4UxHxl2qU54jHwapUYVn0Id7iE@github.com/S4njay-Phi/nah.git"
+  970  cd nah
+  971  cat > file.txt
+  972  git add file.txt
+  973  git status
+  974  git commit -m "course"
+  975  git status
+  976  git push origin main
+  977  cd /
+  978  ls
+  979  cd home
+  980  ls
+  981  cd administrator
+  982  cd adminidtrator
+  983  administrator
+  984  cd administrator
+  985  cd skacas
+  986  cd Desktop
+  987  git version
+  988  cd cloud
+  989  ls
+  990  git init
+  991  git config --list
+  992  git config --global user.name "Sanjay.V"
+  993  git config --list
+  994  git config --global user.email "s4njay02@gmail.com"
+  995  git config --list
+  996  git branch -v
+  997  git remote -v
+  998  git config --global init.defaultBranch main
+  999  git config --list
+ 1000  git clone https://github.com/S4njay-Phi/AOT.git
+ 1001  ls
+ 1002  cd AOT
+ 1003  ls
+ 1004  cat README.md
+ 1005  ls
+ 1006  cat README.md
+ 1007  touch file.txt
+ 1008  cat > cloud computing
+ 1009  cat > file.txt
+ 1010  ls
+ 1011  git config --list
+ 1012  git config --global core.eol lf
+ 1013  git config --list
+ 1014  git config --global core.autocrlf input
+ 1015  git cofig --list
+ 1016  git config --global core.autocrlf in
+ 1017  git config --list
+ 1018  touch hi.txt
+ 1019  git add.hi.txt
+ 1020  ls
+ 1021  git add hi.txt
+ 1022  touch vrow.txt
+ 1023  git add vrow.txt
+ 1024  cd ..
+ 1025  mkdir git
+ 1026  cd git
+ 1027  git init
+ 1028  git config --list
+ 1029  git clone https://github.com/S4njay-Phi/vinland-saga.git
+ 1030  ls
+ 1031  cd vindland-saga
+ 1032  cat vindland-saga
+ 1033  cat vinland-saga
+ 1034  cd vinland-saga
+ 1035  ls
+ 1036  cat READ.md
+ 1037  cat README.md
+ 1038  cat > zphi.txt
+ 1039  cat zphi.txt
+ 1040  cat > zphi.txt
+ 1041  cat zphi.txt
+ 1042  ls
+ 1043  at 
+ 1044  cat README.md
+ 1045  ls
+ 1046  git add.zphi.txt
+ 1047  git --help
+ 1048  git --add.zphi.txt
+ 1049  git add.zphi.txt
+ 1050  git add./zphi.txt
+ 1051  git add.<zphi.txt>
+ 1052  git add.README.md
+ 1053  touch venom.txt
+ 1054  git add venom.txt
+ 1055  git config --list
+ 1056  git config --global autocrlf=input
+ 1057  git config --global core.autocrlf input
+ 1058  git add venom.txt
+ 1059  ls
+ 1060  cat venom.txt
+ 1061  cat > venom.txt
+ 1062  get commit -m "first commit"
+ 1063  git commit -m "chai"
+ 1064  git status
+ 1065  git add venom.txt
+ 1066  git add zphi.txt
+ 1067  git status
+ 1068  git commit -m "oops"
+ 1069  git stuats
+ 1070  git status
+ 1071  git push origin main
+ 1072  git remote -v
+ 1073  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE
+ 1074  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga
+ 1075  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga"
+ 1076  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga
+ 1077  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga"
+ 1078  git remote set-url origin "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga"
+ 1079  git remote -v
+ 1080  push origin main
+ 1081  git push origin main
+ 1082  git status
+ 1083  git push origin main
+ 1084  git clone "https://ghp_YqU57qokg4UxHx12qU5R4jHwapUYVn0Id7iE@github.com/S4njay-Phi/vinland-saga.git"
+ 1085  git push origin main
+ 1086  git push -u origin main
+ 1087  git clone "https://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@github.com/S4njay-Phi/vinland-saga.git"
+ 1088  git remote set-url origin "https://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@github.com/S4njay-Phi/vinland-saga"
+ 1089  git push origin main
+ 1090  git remote set-url origin "https://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@github.com/S4njay-Phi/vinland-saga"
+ 1091  git push origin main
+ 1092  cd /
+ 1093  cd home
+ 1094  cd skacas
+ 1095  mkdir gituhh
+ 1096  cd gituhh
+ 1097  git init
+ 1098  git clone "https://ghp_YqU57qokg4UxHxl2qUYVn0Id7iE/S4njay-Phi/oh.git
+ 1099  git clone "https://ghp_YqU57qokg4UxHxl2qUYVn0Id7iE/S4njay-Phi/oh/.git
+ 1100  git clone "https://ghp_YqU57qokg4UxHxl2qUYVn0Id7iE/S4njay-Phi/oh/.git"
+ 1101  git clone "https://ghp_YqU57qokg4UxHxl2qUYVn0Id7iE/S4njay-Phi/oh.git"
+ 1102  git clone "https://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/S4njay-Phi/oh.git"
+ 1103  git clone "https://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/S4njay-Phi/oh?.git"
+ 1104  git clone "https://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/S4njay-Phi/oh.git"
+ 1105  git clone "https://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@github.com/S4njay-Phi/oh.git"
+ 1106  cd oh
+ 1107  touch file1.txt
+ 1108  cat > file1.txt
+ 1109  git add file1.txt
+ 1110  git commit -m "borrow"
+ 1111  git status
+ 1112  git push origin main
+ 1113  history
+ 1114  cd clear
+ 1115  clear
+ 1116  cd /
+ 1117  clear
+ 1118  cd home
+ 1119  ls
+ 1120  cd skacas
+ 1121  mkdir Project01
+ 1122  mkdir ci_cd_pipeline
+ 1123  cd ci_cd_pipeline
+ 1124  mkdir source
+ 1125  mkdir build
+ 1126  mkdir test
+ 1127  mkdir staging
+ 1128  mkdir production
+ 1129  mkdir 1
+ 1130  mkdir 2
+ 1131  mkdir 3
+ 1132  mkdir 4
+ 1133  mkdir 5
+ 1134  mkdir 6
+ 1135  cd source
+ 1136  touch sourcefile.txt
+ 1137  cd  ..
+ 1138  mkdir 7
+ 1139  cd build
+ 1140  touch buildfile.txt
+ 1141  cd ..
+ 1142  cd test
+ 1143  touch testfile.txt
+ 1144  cd ..
+ 1145  cd staging
+ 1146  touch stagingfile.txt
+ 1147  cd ..
+ 1148  cd production
+ 1149  touch productionfile.txt
+ 1150  cd ..
+ 1151  cd 1
+ 1152  touch build_config.txt
+ 1153  cd ..
+ 1154  cd 2
+ 1155  touch test_results.txt
+ 1156  cd ..
+ 1157  cd 3
+ 1158  touch file3.txt
+ 1159  cd  ..
+ 1160  cd 4
+ 1161  touch file4.txt
+ 1162  cd ..
+ 1163  cd 5
+ 1164  touch file5.txt
+ 1165  cd ..
+ 1166  cd 6
+ 1167  touch file6.txt
+ 1168  cd ..
+ 1169  cd 1
+ 1170  mv build_config.txt /home/skacas/ci_cd_pipeline/test
+ 1171  cd ..
+ 1172  cd test
+ 1173  ls
+ 1174  rm testfile.txt uni_test_result.txt
+ 1175  mv testfile.txt uni_test_result.txt
+ 1176  mv testfile.txt hi.txt
+ 1177  cd ..
+ 1178  cd build
+ 1179  ls
+ 1180  mv bulidfile.txt filebuild.txt
+ 1181  mv buildfile.txt filebuild.txt
+ 1182  ls
+ 1183  cd ..
+ 1184  ls
+ 1185  cd 1
+ 1186  ls
+ 1187  cd ..
+ 1188  cd 2
+ 1189  ls
+ 1190  cd ..
+ 1191  cd 3
+ 1192  ls
+ 1193  cd ..
+ 1194  cd 4
+ 1195  ls
+ 1196  cd 5
+ 1197  cd ..
+ 1198  cd 5
+ 1199  ls
+ 1200  cd ..
+ 1201  cd 6
+ 1202  ls
+ 1203  cd ..
+ 1204  cd 7
+ 1205  ls
+ 1206  cd ..
+ 1207  cd source
+ 1208  ls
+ 1209  cd ..
+ 1210  cd build
+ 1211  ls
+ 1212  cd ..
+ 1213  cd test
+ 1214  ls
+ 1215  cd ..
+ 1216  cd staging
+ 1217  ls
+ 1218  cd ..
+ 1219  cd production
+ 1220  ls
+ 1221  cd ..
+ 1222  touch pipeline_config.txt
+ 1223  ll pipeline_config.txt
+ 1224  chmod 777pipeline_config.txt
+ 1225  chmod --help
+ 1226  chmod 777 pipeline_config.txt
+ 1227  ll pipeline_config.txt
+ 1228  chmod 761 pipeline_config.txt
+ 1229  ll  pipeline_config.tx
+ 1230  ll pipeline_config.tx
+ 1231  ll pipeline_config.txt
+ 1232  chmod 764 pipeline_config.txt
+ 1233  ll pipeline_config.txt
+ 1234  cd 1
+ 1235  cd ..
+ 1236  mkdir backup
+ 1237  cp pipeline_config.txt /home/skacas/ci_cd_pipeline/backup
+ 1238  cd backup
+ 1239  ls
+ 1240  cd ..
+ 1241  cd 6
+ 1242  ls
+ 1243  rm file6.txt
+ 1244  cd ..
+ 1245  rm 6
+ 1246  rm -r 6
+ 1247  nano code.sh
+ 1248  ./code.sh
+ 1249  nano code.sh
+ 1250  .\code.sh
+ 1251  ./code.sh
+ 1252  nano code.sh
+ 1253  ll code.sh
+ 1254  chmod 777 code.sh
+ 1255  ll code.sh
+ 1256  ./code.sh
+ 1257  nano code.sh
+ 1258  history
+ 1259  history -n 1258
+ 1260  grep -r -i -e "touch" -e "mkdir" history
+ 1261  cd  history
+ 1262  cd ..
+ 1263  grep -r -i -e "touch" -e "mkdir" history
+ 1264  cd /
+ 1265  grep -r -i -e "touch" -e "mkdir" history
+ 1266  cd home
+ 1267  cd skacas
+ 1268  cd ci_cd_pipeline
+ 1269  top 
+ 1270  sudo check ownership ci_cd_pipeline
+ 1271  check ownership ci_cd_pipeline
+ 1272  git status
+ 1273  cd 1
+ 1274  git init
+ 1275  ll 
+ 1276  cd ..
+ 1277  ll
+ 1278  ps
+ 1279  /where/log
+ 1280  cd /
+ 1281  cd /var/log
+ 1282  ls
+ 1283  grep -e -i "503 Service Unavailable" web_server.logs
+ 1284  grep -e -i "503 Service Unavailable" syslog.3.gz
+ 1285  grep -e -i "503 Service Unavailable" cups
+ 1286  grep -r -e -i "503 Service Unavailable" cups
+ 1287  grep -e -i "warning" syslog
+ 1288  grep -r -e -i "warning" syslog
+ 1289  cd ..
+ 1290  cd home
+ 1291  cd skacas
+ 1292  cd ci_cd_pipeline
+ 1293  nano code.sh
+ 1294  cd /
+ 1295  cd var
+ 1296  cd log
+ 1297  cd ..
+ 1298  nano code.sh
+ 1299  cd /
+ 1300  cd home
+ 1301  cd skacas
+ 1302  cd ci_cd_pipeline
+ 1303  cd 1
+ 1304  touch log.txt
+ 1305  cat log.txt
+ 1306  cat > log.txt
+ 1307  grep -i "Error" > Error_logs.txt
+ 1308  grep -i "Error" log.txt
+ 1309  touch Error_logs.txt
+ 1310  grep -i "Error" log.txt > Error_logs.txt
+ 1311  cat Error_logs.txt
+ 1312  nano script.sh
+ 1313  vim file.txt
+ 1314  cat file.txt
+ 1315  cd ..
+ 1316  cd home
+ 1317  cd ..
+ 1318  nano script.txt
+ 1319  ls
+ 1320  cd skacas
+ 1321  cd Project
+ 1322  ls
+ 1323  cd ci_cp_pipeline
+ 1324  cd ci_cd_pipeline
+ 1325  mkdir home
+ 1326  cd home
+ 1327  nano script.sh
+ 1328  cd ..
+ 1329  cd 1
+ 1330  vim file.txt
+ 1331  grep -i "replace" file.txt
+ 1332  grep -i -n "replace" file.txt
+ 1333  cd ..
+ 1334  cd home
+ 1335  vim script.sh
+ 1336  ./script.sh
+ 1337  chmod 777 script.sh
+ 1338  ./script.sh
+ 1339  vim script.sh
+ 1340  ./script.sh
+ 1341  vim script.sh
+ 1342  ./script.sh
+ 1343  vim script.sh
+ 1344  ./script.sh
+ 1345  ls
+ 1346  cat assessment.txt
+ 1347  cd ..
+ 1348  ls
+ 1349  touch config.txt
+ 1350  ll config.txt
+ 1351  cd backup
+ 1352  ls
+ 1353  cd ..
+ 1354  ./script.sh
+ 1355  ./code.sh
+ 1356  nano code.sh
+ 1357  top
+ 1358  ls
+ 1359  touch permission.txt
+ 1360  ll permission.txt
+ 1361  chmod o+x permission.txt
+ 1362  ll permission.txt
+ 1363  vim fil1.txt
+ 1364  history
